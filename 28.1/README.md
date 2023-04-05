@@ -34,6 +34,6 @@ locators.py - список локаторов на веб страницах,
 
 - pytest -v --driver Chrome --driver-path chromedriver.exe tests/test.py
 
-Ссылка на тест кейсы: https://docs.google.com/spreadsheets/d/1cCODdbAENEcgEVFHN4I0YWp24BQsKwb5Vbha6DoAuOA/edit#gid=0 
+Ссылка на тест кейсы: https://docs.google.com/spreadsheets/d/1AkO-pHLro9u6sGZY2uxoqg8J-H1LnDVaA49DnNG41W4/edit?usp=sharing 
 
 P.S.Отдельные тесты могут "падать" из-за необходимости ввода каптчи .
