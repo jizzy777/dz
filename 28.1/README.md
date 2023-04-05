@@ -16,8 +16,6 @@ Final_Project_28.1
 → Объект тестирования: https://b2c.passport.rt.ru
 
 
-
-
 В проект использовались: PageObject, Selenium и PyTest.
 
 В корневой папке находятся файлы chromedriver.exe для запуска тестов с браузером google chrome, requirements.txt для установки необходимых для тестирования библиотек, settings.py с тестовыми данными.
